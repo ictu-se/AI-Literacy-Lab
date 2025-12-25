@@ -21,12 +21,14 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 2. **[Journal]** Nguyen, Van-Viet, et al. "Parameter-Efficient Fine-Tuning of Small Language Models for Code Generation: A Comparative Study of Gemma, Qwen 2.5, and Llama 3.2" International Journal of Electrical and Computer Engineering (IJECE), 2025. **(in progress)**
 3. **[Journal]** Nguyen, Van-Viet, et al. "A Novel Unified Framework for Automated Generation and Multimodal Validation of UML Diagrams", CMES-Computer Modeling in Engineering & Sciences, 2025. **(in progress)**
 4. **[Conference]** Nguyen, Van-Viet, et al. "Generative Reasoning Meets Multimodal Evaluation: A Novel Approach to Activity and Package Diagram Comparison in UML Modeling." The 2025 CIDDF International Conference (CIDDF). Singapore: Springer Nature Singapore, 2025.**(in progress)**
-5. **[Conference]** Nguyen, Van-Viet, et al. "A Novel Pipeline for Automatic UML Sequence Diagram Synthesis and Multimodal Scoring." International Conference on Intelligent Systems and Data Science (ISDS). Singapore: Springer Nature Singapore, 2025.**(published)**
+5. **[Conference]** Nguyen, Van-Viet, et al. "A Novel Pipeline for Automatic UML Sequence Diagram Synthesis and Multimodal Scoring." International Conference on Intelligent Systems and Data Science (ISDS). Singapore: Springer Nature Singapore, 2025.**(Published)**
 6. **[Conference]** Nguyen, Van-Viet, et al. "Pioneering a DeepSeek R1-Generated UML Dataset and an Automated Multimodal Visual Validation Framework." International Conference on Advances in Information  and Communication Technology (ICTA). Singapore: Springer Nature Singapore, 2025.**(in progress)**
 7. **[Conference]** Nguyen, Van-Viet, et al. "Fine-Tuning and Evaluating Distilled DeepSeek Models for Code Reasoning." The International Conference on Advanced COMPuting and Analytics (ACOMPA). Singapore: Springer Nature Singapore, 2025.**(in progress)**
 8. **[Conference]** Nguyen, Van-Viet, et al. "Phi-3-Code: Fine Tuning a Small Size Language Model for Coding Generation." International Conference on Intelligence of Things(ICIT). Singapore: Springer Nature Singapore, 2025.**(in progress)**
 9. **[Conference]** Nguyen, Van-Viet, et al. "Multimodal Validation in UML Synthesis: A Dual-Case Study on Sequence and Class Diagram Generation Pipelines." International Conference on Engineering Research and Applications(ICERA). Singapore: Springer Nature Singapore, 2025.**(in progress)**
-10. 
+10. **[Journal]** Nguyen, Van-Viet, et al. "Revolutionizing education: An extensive analysis of large language models integration" International Research IRJSTEM of Science, Technology, Education, and Management, 2024. **(Published)**
+11. **[Journal]** Nguyen, Van-Viet, et al. "Large language models in software engineering A systematic review and vision" International Research Journal of Education For Sustainable Innovation, 2024. **(Published)**
+12. **[Conference]** Nguyen, Van-Viet, et al. "Overview research on the use of Large Language Models (LLMs) in the field of software engineering." Hội nghị Khoa học và Triển lãm Quốc tế lần thứ 7 về Điều khiển và Tự động hóa (VCCA), 2024.**(Published)**
 ### 3. Nguyen Kim Son (started from June 2024)
 1. Paper (published)
 2. Paper (in progress)
