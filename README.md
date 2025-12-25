@@ -13,10 +13,21 @@ At the AI Literacy Lab, our interdisciplinary approach and commitment to cutting
 ## Lab Head
 Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Information Technology, Thai Nguyen University of Information and Communication Technology. He graduated with a master's degree in information systems management from Oklahoma State University, USA (under scholarship 322). He completed his PhD program under Project 911 in 2020 at Texas Tech University, USA. His main research interests are Statistics, Data Visualization and Artificial Intelligence. He has authored or coauthored more than 50 publications with 14 H-index and more than 650 citations . He can be found on Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=6rZWCbcAAAAJ"><img src="http://scholar.google.com/favicon.ico" alt="Open In Google Scholar"></a> or Scopus:  <a href="https://www.scopus.com/authid/detail.uri?authorId=57210589113"><img src="https://www.scopus.com/static/proteus-images/favicon.ico?ver=1.0" alt="Open In Google Scholar"></a>
 ## Offical Lab Members
-1. Nguyen Huu Khanh (started from Dec 2023)
-2. Nguyen Van Viet (started from Dec 2023)
-3. Nguyen Kim Son (started from June 2024)
-4. Luong Thi Minh Hue (started from June 2024)
+### 1. Nguyen Huu Khanh (started from Dec 2023)
+1. Paper (published)
+2. Paper (in progress)
+### 2. Nguyen Van Viet (started from Dec 2023)
+1. Paper (published)
+2. Paper (in progress)
+### 3. Nguyen Kim Son (started from June 2024)
+1. Paper (published)
+2. Paper (in progress)
+### 4. Luong Thi Minh Hue (started from June 2024)
+1. Paper (published)
+2. Paper (in progress)
+### 5. Đỗ Thị Phượng (started from June 2024)
+1. Paper (published)
+2. Paper (in progress)
 # Updates
 - [15 August, 2024] Congratulation for **Luong Thi Minh Hue** for the _first conference_ research paper on "VizAgent: Towards an Intelligent and Versatile Data Visualization Framework Powered by Large Language Models" at ICTA2024 
 - [15 August, 2024] Congratulation for **Nguyen Kim Son** for the _first conference_ research paper on "Application of Large Language Models in Geographic Map Analysis and Visualization" at ICTA2024 
