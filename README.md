@@ -17,7 +17,7 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 1. Paper (published)
 2. Paper (in progress)
 ### 2. Nguyen Van Viet (started from Dec 2023)
-1. Paper (published)
+1. Nguyen, Van-Viet, et al. "Automated UML Generation: A Framework for Class Diagram Synthesis and Multimodal Validation." International Conference on Future Data and Security Engineering. Singapore: Springer Nature Singapore, 2025.
 2. Paper (in progress)
 ### 3. Nguyen Kim Son (started from June 2024)
 1. Paper (published)
