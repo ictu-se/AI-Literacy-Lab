@@ -88,8 +88,9 @@ Vinh T. Nguyen, PhD: Dr. Vinh is currently a lecturer at the Faculty of Informat
 8. **[Journal]** Luong, Thi-Minh-Hue, Nguyen, The-Vinh, Nguyen, Van-Viet, Nguyen, Huu-Khanh, Nguyen, Kim-Son. _Automated Data Exploration with Mutual Information in Natural Language to Visualization_, IAES International Journal of Artificial Intelligence (IJ-AI), 2025. **(in progress)**
 
 ### 5. Đỗ Thị Phượng (started from June 2024)
-1. Paper (published)
-2. Paper (in progress)
+1. **[Paper]** Do, Thi-Phuong,et al. _Quá trình và xu hướng phát triển của báo điện tử Việt Nam,_ tạp chí người làm báo, 2024. **(Published)**
+2. **[Journal]** Do, Thi-Phuong,et al. _Yếu tố mỹ thuật và công nghệ số trong truyền thông quảng bá di sản văn hóa và du lịch_,tạp chí Hội thảo khoa học quốc gia về mỹ thuật ứng dụng, 2025. **(Published)**
+3. **[Book_chapter]** Phạm, Ngọc-Phuong, Do, Thi-Phuong, Dinh, Xuan-Lam. _Automated content generation and distribution_,Springer, 2025. **(in progress)**
 # Updates
 
 - [15 August, 2024] Congratulation for **Luong Thi Minh Hue** for the _first conference_ research paper on "VizAgent: Towards an Intelligent and Versatile Data Visualization Framework Powered by Large Language Models" at ICTA2024 
